@@ -97,7 +97,7 @@ Comprehensive documentation & guides
 
 | 📖 Documentation | 🎮 Play | 💻 Develop | 🤝 Community |
 |:---:|:---:|:---:|:---:|
-| [Read the Docs](https://github.com/GRILLBOUND/docs) | [Launch Game](https://grillbound.game) | [Setup Guide](https://github.com/GRILLBOUND/game#setup) | [Join Discord](https://discord.gg/grillbound) |
+| [Read the Docs](https://github.com/GRILLBOUND/docs) | [Launch Game](https://grillbound.game) | [Setup Guide](https://github.com/GRILLBOUND/game#setup) | [Join Discord](https://discord.gg/S2dzVsNxhc) |
 | [API Reference](https://github.com/GRILLBOUND/backend#api) | [Leaderboards](https://grillbound.game/leaderboard) | [Backend Docs](https://github.com/GRILLBOUND/backend) | [Twitter](https://twitter.com/GRILLBOUND) |
 
 ---
