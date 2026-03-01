@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![GRILLBOUND Banner](https://via.placeholder.com/1200x300/1a1a1a/ff4444?text=WELCOME+TO+GRILLBOUND)
+![GRILLBOUND Banner]([https://avatars.githubusercontent.com/u/264275546?s=400&u=48283fbe4224c2e0071930fcb07fdd15d4f806e3&v=4])
 
 **The Multiplayer Horror Game Where Fast Food Meets Fear**
 
